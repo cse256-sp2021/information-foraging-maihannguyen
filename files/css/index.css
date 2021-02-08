@@ -16,13 +16,15 @@
 #visit-our-school {
     text-align: center;
     background-color: #eee;
-    padding: 80px;
+    padding: 60px;
     margin-bottom: 2em;
 }
 
 #visit-our-school p {
     text-align: left;
     margin-bottom: 2em;
+    margin-right:3em;
+    margin-left:5em;
     font-size: 1.25em;
 }
 
