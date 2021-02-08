@@ -58,6 +58,10 @@ main h3 {
     line-height: 37px;
 }
 
+.headernew{
+    font-size:200%;
+}
+
 main p a,
 main h1 a,
 main h2 a,
