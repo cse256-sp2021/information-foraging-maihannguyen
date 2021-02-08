@@ -13,9 +13,16 @@ header {
 #main-menu-container {
     width: 100%;
     background-color: #3d3d3d;
-    position: sticky;
-
 }
+
+.sticky {
+    position: fixed;
+    top: 0;
+  }
+  
+  .sticky + .content {
+    padding-top: 102px;
+  }
 
 .container {
     width: 92%;
