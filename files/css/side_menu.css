@@ -21,7 +21,8 @@ main {
 ul.subnav>.current_page_item>a {
     color: #3d3d3d;
     font-family: "Libre Baskerville", "Times New Roman", "serif";
-    font-size: 2em;
+    font-size: 2.5em;
+    text-align: center;
 }
 
 ul.subnav,
@@ -36,16 +37,17 @@ ul.subnav a {
 }
 
 ul.subnav ul a {
-    font-size: .875em;
+    font-size: 1.25em;
     font-weight: 600;
     line-height: 1.25em;
     padding: 5px;
     -webkit-font-smoothing: antialiased;
     color: #a51417;
+    text-align: center;
 }
 
 .children li {
-    padding: 10px 0px;
+    padding: 8px 0px;
 }
 
 .widget-area a {
