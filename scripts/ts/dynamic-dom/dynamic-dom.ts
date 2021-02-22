@@ -11,6 +11,7 @@ export function PutStudentPageLoadOperationsInsideThisStudentBody() {
     // For example you could write: Sticky.setup()
     doSomething();
     sticky();
+    mybutton();
 }
 
 export async function setupAll() {
