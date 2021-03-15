@@ -111,3 +111,20 @@ main hr {
     background-color: #eee;
     height: 1px;
 }
+
+.button {
+    background-color: #421307; /* maroon*/
+    border: none;
+    color: white;
+    padding: 30px 62px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+  }
+
+.redirectparent{
+    text-align: center;
+}
+
+h1 {text-align: center;}
